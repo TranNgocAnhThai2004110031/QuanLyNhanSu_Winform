@@ -1,0 +1,125 @@
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.exe.config
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.exe
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.pdb
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.AssemblyReference.cache
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.SuggestedBindingRedirects.cache
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.Properties.Resources.resources
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.GenerateResource.cache
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.CoreCompileInputs.cache
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.exe
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.pdb
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormLogin.resources
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormMain.resources
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormUser.resources
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormNhanVien.resources
+D:\LTTGTQ\Nhóm\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormDepartment.resources
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.exe.config
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.exe
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.pdb
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.AssemblyReference.cache
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.SuggestedBindingRedirects.cache
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormDepartment.resources
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormNhanVien.resources
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormLogin.resources
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormMain.resources
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormUser.resources
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.Properties.Resources.resources
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.GenerateResource.cache
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.CoreCompileInputs.cache
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.exe
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.pdb
+D:\LTTGTQ\Nhóm (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormThongKe.resources
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.exe.config
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.exe
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.pdb
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormDepartment.resources
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormNhanVien.resources
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormLogin.resources
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormMain.resources
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormThongKe.resources
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.FormUser.resources
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.Properties.Resources.resources
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.exe
+C:\Users\Admin\Downloads\Nhóm (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.pdb
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.exe.config
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.exe
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Quản Lý Nhân Sự.pdb
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.AssemblyReference.cache
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.SuggestedBindingRedirects.cache
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.Properties.Resources.resources
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.GenerateResource.cache
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.CoreCompileInputs.cache
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.exe
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.pdb
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\EnvDTE.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\stdole.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản Lý Nhân Sự.csproj.CopyComplete
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\EPPlus.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\EPPlus.Interfaces.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\EPPlus.System.Drawing.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\EPPlus.xml
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.GUIChartBDC.resources
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.GUIChartBDT.resources
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.GUINhanVien.resources
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.GUILogin.resources
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.GUIMain.resources
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.GUIThongKe.resources
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.GUIUser.resources
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.GUIReport.resources
+D:\LTTGTQ\Nhóm (1) (1) (1)\Quản Lý Nhân Sự\Quản Lý Nhân Sự\obj\Debug\Quản_Lý_Nhân_Sự.GUIPhongBan.resources
